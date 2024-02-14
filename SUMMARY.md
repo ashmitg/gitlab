@@ -13,7 +13,7 @@
 
 ## How everything Works
 
-* [Model Competition Explained](how-everything-works/model-competition-explained.md)
+* [🤑 Model Competition Explained](how-everything-works/model-competition-explained.md)
 * [Rewards Model Explained](how-everything-works/rewards-model-explained.md)
 * [Prompt Guiding Explained](how-everything-works/prompt-guiding-explained.md)
 * [What we do with your model](how-everything-works/what-we-do-with-your-model.md)
